@@ -1,14 +1,9 @@
-##  commmits
-
+## Commits
 
 ## Branches
-
 
 ## Remotes
 
 ## Stashing
 
-
 ## Merging
-
-## testing
